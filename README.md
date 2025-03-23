@@ -19,4 +19,5 @@ The script evaluates four different classification models: Naïve Bayes (Multino
 The final part of the script allows users to input a custom review for sentiment analysis. A new CountVectorizer is fitted on the complete dataset, and a Logistic Regression model is retrained using the full data. The user provides a review, which is vectorized and classified as positive or negative based on the trained model. This interactive functionality enhances the practicality of the sentiment analysis tool. Overall, the script effectively demonstrates natural language processing (NLP) techniques and machine learning classifiers to analyze textual sentiment, offering both automated classification and interpretability through token analysis and model evaluation.
 
 #OUTPUT
+
 ![image](https://github.com/user-attachments/assets/6a5efdd5-4635-4b12-baec-2c600a516e1b)
